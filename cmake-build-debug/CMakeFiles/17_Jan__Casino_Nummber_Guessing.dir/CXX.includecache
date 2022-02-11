@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/frhim/CLionProjects/17 Jan_ Casino Nummber Guessing/main.cpp
+iostream
+-
+string
+-
+cstdlib
+-
+ctime
+-
+

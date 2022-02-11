@@ -1,0 +1,3 @@
+C:/Users/frhim/CLionProjects/17 Jan_ Casino Nummber Guessing/cmake-build-debug/CMakeFiles/17_Jan__Casino_Nummber_Guessing.dir
+C:/Users/frhim/CLionProjects/17 Jan_ Casino Nummber Guessing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/frhim/CLionProjects/17 Jan_ Casino Nummber Guessing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
